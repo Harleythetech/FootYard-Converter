@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FootYard Converter</string>
+    <string name="bg" />
+    <string name="Convert">Convert</string>
+    <string name="rbyards">Yard to Foot</string>
+    <string name="rbfoot">Foot to Yard</string>
+    <string name="input">Enter Number:</string>
+    <string name="fyc">FootYard Converter</string>
+    <string name="description">An app that literally Just Converts Foot to Yards (Vice Versa)</string>
+    <string name="YTFTY" />
+    <string name="Numinp">0</string>
+</resources>
