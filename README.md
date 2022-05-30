@@ -10,4 +10,6 @@ Description: An app that literally just converts Foot To Yards (Vice Versa)
 
 
 -------------- APP Project File --------------
-[FootYard Converter-ICT102A - Jovellano, Vincent Harley R..zip](https://github.com/Harleythetech/FootYard-Converter/files/8795832/FootYard.Converter-ICT102A.-.Jovellano.Vincent.Harley.R.zip)
+
+
+[FootYard Converter-Project Sample.zip](https://github.com/Harleythetech/FootYard-Converter/files/8795840/FootYard.Converter-Project.Sample.zip)
